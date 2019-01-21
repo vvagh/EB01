@@ -1,0 +1,90 @@
+import json
+
+sourceFile_1396 = open("WP_tables/tables_redi2_1/re_tables-1396.json", "r")
+sourceFile_0498 = open("WP_tables/tables_redi2_1/re_tables-0498.json", "r")
+# sourceFile_0498 = open("WP_tables/tables_redi2_1/re_tables-0498.json", "r")
+# sourceFile_1396 = open("WP_tables/tables_redi2_1/re_tables-1396.json", "r")
+# sourceFile_0498 = open("WP_tables/tables_redi2_1/re_tables-0498.json", "r")
+# sourceFile_1396 = open("WP_tables/tables_redi2_1/re_tables-1396.json", "r")
+sourceFile_1397 = open("WP_tables/tables_redi2_1/re_tables-1397.json", "r")
+# sourceFile_1396 = open("WP_tables/tables_redi2_1/re_tables-1396.json", "r")
+sourceFile_0496 = open("WP_tables/tables_redi2_1/re_tables-0496.json", "r")
+# sourceFile_1396 = open("WP_tables/tables_redi2_1/re_tables-1396.json", "r")
+sourceFile_1640 = open("WP_tables/tables_redi2_1/re_tables-1640.json", "r")
+sourceFile_1616 = open("WP_tables/tables_redi2_1/re_tables-1616.json", "r")
+sourceFile_1349 = open("WP_tables/tables_redi2_1/re_tables-1349.json", "r")
+sourceFile_0552 = open("WP_tables/tables_redi2_1/re_tables-0552.json", "r")
+sourceFile_0012 = open("WP_tables/tables_redi2_1/re_tables-0012.json", "r")
+sourceFile_0033 = open("WP_tables/tables_redi2_1/re_tables-0033.json", "r")
+sourceFile_0302 = open("WP_tables/tables_redi2_1/re_tables-0302.json", "r")
+sourceFile_1160 = open("WP_tables/tables_redi2_1/re_tables-1160.json", "r")
+sourceFile_0342 = open("WP_tables/tables_redi2_1/re_tables-0342.json", "r")
+sourceFile_1069 = open("WP_tables/tables_redi2_1/re_tables-1069.json", "r")
+
+json_data_1396 = json.load(sourceFile_1396)
+json_data_0498 = json.load(sourceFile_0498)
+# json_data_0498 = json.load(sourceFile_0498)
+# json_data_1396 = json.load(sourceFile_1396)
+# json_data_0498 = json.load(sourceFile_0498)
+# json_data_1396 = json.load(sourceFile_1396)
+json_data_1397 = json.load(sourceFile_1397)
+# json_data_1396 = json.load(sourceFile_1396)
+json_data_0496 = json.load(sourceFile_0496)
+# json_data_1396 = json.load(sourceFile_1396)
+json_data_1640 = json.load(sourceFile_1640)
+json_data_1616 = json.load(sourceFile_1616)
+json_data_1349 = json.load(sourceFile_1349)
+json_data_0552 = json.load(sourceFile_0552)
+json_data_0012 = json.load(sourceFile_0012)
+json_data_0033 = json.load(sourceFile_0033)
+json_data_0302 = json.load(sourceFile_0302)
+json_data_1160 = json.load(sourceFile_1160)
+json_data_0342 = json.load(sourceFile_0342)
+json_data_1069 = json.load(sourceFile_1069)
+
+t1 = json_data_1396["table-1396-736"]
+t2 = json_data_0498["table-0498-296"]
+t3 = json_data_0498["table-0498-298"]
+t4 = json_data_1396["table-1396-735"]
+t5 = json_data_0498["table-0498-295"]
+t6 = json_data_1396["table-1396-734"]
+t7 = json_data_1397["table-1397-842"]
+t8 = json_data_1396["table-1396-738"]
+t9 = json_data_0496["table-0496-732"]
+t10 = json_data_1396["table-1396-737"]
+t11 = json_data_1640["table-1640-316"]
+t12 = json_data_1616["table-1616-401"]
+t13 = json_data_1349["table-1349-592"]
+t14 = json_data_0552["table-0552-599"]
+t15 = json_data_0012["table-0012-931"]
+t16 = json_data_0033["table-0033-259"]
+t17 = json_data_0302["table-0302-912"]
+t18 = json_data_1160["table-1160-843"]
+t19 = json_data_0342["table-0342-607"]
+t20 = json_data_1069["table-1069-625"]
+
+d = {}
+d["table-1396-736"] = t1
+d["table-0498-296"] = t2
+d["table-0498-298"] = t3
+d["table-1396-735"] = t4
+d["table-0498-295"] = t5
+d["table-1396-734"] = t6
+d["table-1397-842"] = t7
+d["table-1396-738"] = t8
+d["table-0496-732"] = t9
+d["table-1396-737"] = t10
+d["table-1640-316"] = t11
+d["table-1616-401"] = t12
+d["table-1349-592"] = t13
+d["table-0552-599"] = t14
+d["table-0012-931"] = t15
+d["table-0033-259"] = t16
+d["table-0302-912"] = t17
+d["table-1160-843"] = t18
+d["table-0342-607"] = t19
+d["table-1069-625"] = t20
+
+# Writing or 'dumping' the data of each table into JSON file => "our new corpus"
+with open('query42.json', 'w') as f:
+    json.dump(d, f)
