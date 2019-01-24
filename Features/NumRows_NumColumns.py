@@ -10,6 +10,12 @@ tR_0370 = json_data["table-0370-614"]["numDataRows"]
 # number of columns
 tC_0370 = json_data["table-0370-614"]["numCols"]
 
+# Counts number of null cells 
+for entry in json_data["table-0370-614"]["data"]:
+    count = entry.count("")
+    print(count)
+# problem with trying to sum-up the count (eg. the sum should be 2)
+
 with open('Features.csv', 'w', encoding="ISO-8859-1", newline='') as myFile:
     # writer for csv file
     wr = csv.writer(myFile)
