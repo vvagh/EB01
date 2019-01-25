@@ -1,7 +1,9 @@
 import errno
 import glob  # glob module finds all the path names matching a specified pattern
 
-path = '/Users/naila/Desktop/WP_tables/tables_redi2_1/*.json'
+
+path = '/Users/fatimapeygumbari/Downloads/WP_tables/re_tables-0001.json'
+
 files = glob.glob(path)
 for name in files:
     try:
@@ -31,30 +33,11 @@ for name in files:
                 else:
                     return None
 
-            words = tokenize()
-            word_list = ['title', 'me']
+ words = tokenize()
+ word = ['title', 'me']
 
-            map = map_table(words)
+ map = map_table(words)
 
-            for word in word_list:
-                print('Word: [' + word + '] Frequency: ' + str(map[word]))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+for word in word_list:
+ print('Word: [' + word + '] Frequency: ' + str(map[word]))
 
