@@ -32,3 +32,6 @@ for entry in json_data["table-1031-634"]["title"]:
         count += 1
 
 print(count)
+
+ratio = count/60
+print(ratio)
