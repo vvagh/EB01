@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc6960d6-1fd8-4410-b221-1951fecb2ef1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Features/HitsB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Features/HitsB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hitsB_attempt.py" beforeDir="false" afterPath="$PROJECT_DIR$/hitsB_attempt.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc6960d6-1fd8-4410-b221-1951fecb2ef1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Features/HitsB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="46" column="31" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="31" />
+            <state relative-caret-position="222">
+              <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
               <folding>
                 <element signature="e#173#183#0" expanded="true" />
               </folding>
@@ -109,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="39" />
     <option name="y" value="78" />
     <option name="width" value="1400" />
@@ -314,7 +310,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="78" width="1400" height="675" extended-state="0" />
+    <frame x="39" y="78" width="1400" height="675" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -420,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Features/HitsB.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="46" column="31" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="31" />
+        <state relative-caret-position="222">
+          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
           <folding>
             <element signature="e#173#183#0" expanded="true" />
           </folding>
