@@ -10,11 +10,13 @@ tR_0370 = json_data["table-0370-614"]["numDataRows"]
 # number of columns
 tC_0370 = json_data["table-0370-614"]["numCols"]
 
-# Counts number of null cells 
+# Counts number of null cells in Data portions of table
+counting = []
 for entry in json_data["table-0370-614"]["data"]:
-    count = entry.count("")
-    print(count)
-# problem with trying to sum-up the count (eg. the sum should be 2)
+    counting.append(entry.count(""))
+    # count = entry.count("")
+    sum_result = sum(counting)
+print(sum_result)
 
 with open('Features.csv', 'w', encoding="ISO-8859-1", newline='') as myFile:
     # writer for csv file
@@ -29,7 +31,8 @@ with open('Features.csv', 'w', encoding="ISO-8859-1", newline='') as myFile:
     table_id = ["table-0370-614"]
     numRows = [tR_0370]
     numCols = [tC_0370]
-    d = [query_id, query, table_id, numRows, numCols]
+    nullCells = [sum_results]
+    d = [query_id, query, table_id, numRows, numCols, nullCells]
     exported_data = zip_longest(*d, fillvalue='')
     wr.writerows(exported_data)
 myFile.close()
