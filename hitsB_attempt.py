@@ -33,11 +33,14 @@ for name in files:
                 else:
                     return None
 
- words = tokenize()
- word = ['title', 'me']
+                words = tokenize()
+                word_list = ['title', 'me', 'this']
 
- map = map_table(words)
+                map = map_table(words)
 
-for word in word_list:
- print('Word: [' + word + '] Frequency: ' + str(map[word]))
+                for word in word_list:
+                    print('Word: [' + word + '] Frequency: ' + str(map[word]))
 
+    except IOError as exc:
+        if exc.errno != errno.EISDIR:
+            raise
