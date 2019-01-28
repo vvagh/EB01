@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc6960d6-1fd8-4410-b221-1951fecb2ef1" name="Default Changelist" comment="" />
+    <list default="true" id="cc6960d6-1fd8-4410-b221-1951fecb2ef1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features/HitsB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Features/HitsB.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,25 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hitsB_attempt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-363">
-              <caret line="4" column="66" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="66" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" column="20" lean-forward="true" selection-end-line="23" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -37,38 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Features/HitsB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-              <folding>
-                <element signature="e#173#183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Downloads/EDP_Project/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Downloads/EDP_Project/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            <state relative-caret-position="87">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -96,18 +54,19 @@
         <option value="$PROJECT_DIR$/HitsB.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
         <option value="$PROJECT_DIR$/hitsB_attempt.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" />
-        <option value="$PROJECT_DIR$/../Downloads/EDP_Project/test.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/test.py" />
         <option value="$PROJECT_DIR$/../Downloads/EDP_Project/HitsB.py" />
         <option value="$PROJECT_DIR$/../Downloads/EDP_Project/test1.py" />
+        <option value="$PROJECT_DIR$/../Desktop/EDP/Corpus_Code/WP_tables/tables_redi2_1/scratch_7.py" />
+        <option value="$PROJECT_DIR$/../Downloads/EDP_Project/test.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" />
         <option value="$PROJECT_DIR$/Features/HitsB.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="39" />
-    <option name="y" value="78" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="40" />
+    <option name="y" value="64" />
     <option name="width" value="1400" />
     <option name="height" value="675" />
   </component>
@@ -143,6 +102,7 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Features" />
       <recent name="$PROJECT_DIR$/../Desktop" />
+      <recent name="$PROJECT_DIR$/../Desktop/EDP/Corpus_Code/WP_tables/tables_redi2_1" />
       <recent name="$PROJECT_DIR$/../Downloads/EDP_Project" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -160,7 +120,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.HitsB (1)">
-    <configuration name="HitsB (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HitsB (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="EB01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HitsB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scratch_7 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="EB01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Downloads/EDP_Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desktop/EDP/Corpus_Code/WP_tables/tables_redi2_1" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Downloads/EDP_Project/HitsB.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Desktop/EDP/Corpus_Code/WP_tables/tables_redi2_1/scratch_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,11 +248,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HitsB (1)" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.HitsB" />
-        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.scratch_7" />
+        <item itemvalue="Python.scratch_7 (1)" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="78" width="1400" height="675" extended-state="1" />
+    <frame x="40" y="64" width="1400" height="675" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
@@ -360,16 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hitsB_attempt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-363">
-          <caret line="4" column="66" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Desktop/HitsB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-193">
@@ -386,27 +335,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Downloads/EDP_Project/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+        <state relative-caret-position="195">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../Desktop/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../Downloads/EDP_Project/test1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -415,13 +350,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/EDP/Corpus_Code/WP_tables/tables_redi2_1/scratch_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hitsB_attempt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-363">
+          <caret line="4" column="66" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pandas/io/json/json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6045">
+          <caret line="429" column="28" lean-forward="true" selection-start-line="429" selection-start-column="28" selection-end-line="429" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="true" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Features/HitsB.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-          <folding>
-            <element signature="e#173#183#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="87">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>

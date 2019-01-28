@@ -1,71 +1,27 @@
 
 # This file represents the #hitsB which is the total query term frequency in the table body
 # this json file demonstrates a test run and the output per work and character
+import json
 
-import sys
-import os
+sourceFile = open('/Users/fatimapeygumbari/EB01/Corpus_Data/corpus.json', 'r')
+json_data = json.load(sourceFile)
 
-file = open('re_tables-0001.json', 'r')
-book = file.read()
+fname = '/Users/fatimapeygumbari/EB01/Corpus_Data/STR.txt'
 
+with open(fname) as f:
+        content = f.readlines()
+null_cells = []
+for line in content:
+        sline = line.split()
+        tid = sline[2]
 
-def tokenize():
-        if book is not None:
-                words = book.lower().split()
-                return words
-        else:
-                return None
+        # Counts number of null cells in Data portions of table
+        counting = []
+        sumResults = []
+        for entry in json_data[tid]["data"]:
+                counting.append(entry.count("World"))
+                sum_result = sum(counting)
+                sumResults = sum_result
+        null_cells.append(sum_result)
 
-
-def map_book(tokens):
-        hash_map = {}
-
-        if tokens is not None:
-                for element in tokens:
-                        # Remove Punctuation
-                        word = element.replace(",","")
-                        word = word.replace(".","")
-
-                        # Word Exist?
-                        if word in hash_map:
-                                hash_map[word] = hash_map[word] + 1
-                        else:
-                                hash_map[word] = 0
-
-                return hash_map
-        else:
-                return None
-
-# Tokenize the file
-words = tokenize()
-word_list = ['the','life','situations','since','day', 'sky']
-
-
-# Create a Hash Map (Dictionary)
-map = map_book(words)
-
-#class BreakIt(Exception): pass
-# Show Word Information
-while True:
-        for word in word_list:
-                flag = False
-                try:
-                        arr_counter = 0
-                        # check if end of list has been reached
-                        if (arr_counter+1) != len(word_list):
-                                #put all your code here
-                                print('Word: [' + word + '] Frequency: ' + str(map[word]))
-                                pass
-                                # increment the array counter
-                                arr_counter += 1
-                        flag = True
-
-                except:
-                #The append() method adds a single item to the existing list.
-                # It doesn't return a new list; rather it modifies the original list.
-                        word_list.append([word,1])
-                        pass
-
-                else:
-                        continue
-
+print(null_cells)
