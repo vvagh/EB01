@@ -10,7 +10,7 @@ fname = '/Users/fatimapeygumbari/EB01/Corpus_Data/STR.txt'
 
 with open(fname) as f:
         content = f.readlines()
-null_cells = []
+query_words = []
 for line in content:
         sline = line.split()
         tid = sline[2]
@@ -22,6 +22,6 @@ for line in content:
                 counting.append(entry.count("World"))
                 sum_result = sum(counting)
                 sumResults = sum_result
-        null_cells.append(sum_result)
+        query_words.append(sum_result)
 
-print(null_cells)
+print(query_words)
