@@ -1,0 +1,3121 @@
+query_id,query,table_id,rows,#columns,nullCells,relevance
+1,world interest rates table,['table-0370-614'],43,4,2,2
+1,world interest rates table,['table-1020-619'],4,3,0,2
+1,world interest rates table,['table-0037-411'],23,4,23,2
+1,world interest rates table,['table-0255-236'],66,6,1,1
+1,world interest rates table,['table-1000-57'],2,2,0,1
+1,world interest rates table,['table-1042-895'],7,6,3,1
+1,world interest rates table,['table-1402-139'],5,10,0,1
+1,world interest rates table,['table-1423-774'],9,2,0,1
+1,world interest rates table,['table-0730-168'],16,8,42,1
+1,world interest rates table,['table-0914-101'],12,4,9,0
+1,world interest rates table,['table-0914-103'],20,8,24,0
+1,world interest rates table,['table-0552-510'],1,4,0,0
+1,world interest rates table,['table-0464-505'],93,5,0,0
+1,world interest rates table,['table-0552-511'],1,3,0,0
+1,world interest rates table,['table-0904-852'],12,4,9,0
+1,world interest rates table,['table-0216-976'],6,11,16,0
+1,world interest rates table,['table-0554-923'],1,2,0,0
+1,world interest rates table,['table-1391-8'],29,6,29,0
+1,world interest rates table,['table-0063-827'],10,2,0,0
+1,world interest rates table,['table-0216-970'],4,11,16,0
+2,2008 beijing olympics,['table-1408-874'],6,5,6,0
+2,2008 beijing olympics,['table-1408-869'],7,4,7,0
+2,2008 beijing olympics,['table-1552-729'],6,4,0,0
+2,2008 beijing olympics,['table-1408-870'],6,4,6,0
+2,2008 beijing olympics,['table-1408-871'],12,4,12,0
+2,2008 beijing olympics,['table-0346-14'],3,2,2,0
+2,2008 beijing olympics,['table-1578-197'],1,6,0,0
+2,2008 beijing olympics,['table-0654-76'],2,5,3,0
+2,2008 beijing olympics,['table-0391-689'],2,9,2,0
+2,2008 beijing olympics,['table-1600-861'],3,13,3,0
+2,2008 beijing olympics,['table-1047-153'],1,5,0,0
+2,2008 beijing olympics,['table-0406-134'],26,5,0,0
+2,2008 beijing olympics,['table-1621-634'],13,8,0,0
+2,2008 beijing olympics,['table-0223-179'],2,5,0,0
+2,2008 beijing olympics,['table-0517-237'],5,7,1,0
+2,2008 beijing olympics,['table-0562-150'],5,5,7,0
+2,2008 beijing olympics,['table-1574-263'],1,5,0,0
+2,2008 beijing olympics,['table-1564-439'],4,5,2,0
+2,2008 beijing olympics,['table-0331-42'],1,3,0,0
+2,2008 beijing olympics,['table-0938-613'],1,5,0,0
+3,fast cars,['table-0005-922'],3,7,0,0
+3,fast cars,['table-0005-924'],3,7,0,0
+3,fast cars,['table-0005-926'],4,7,0,0
+3,fast cars,['table-0100-835'],0,1,0,0
+3,fast cars,['table-0005-925'],4,7,0,0
+3,fast cars,['table-0005-923'],3,7,0,0
+3,fast cars,['table-0005-921'],3,7,0,0
+3,fast cars,['table-0100-833'],3,2,0,0
+3,fast cars,['table-0312-107'],3,2,2,0
+3,fast cars,['table-0005-927'],7,5,0,0
+3,fast cars,['table-0100-834'],1,2,0,0
+3,fast cars,['table-0009-475'],17,5,0,0
+3,fast cars,['table-0287-961'],8,3,0,0
+3,fast cars,['table-1435-370'],1,2,1,0
+3,fast cars,['table-1438-931'],5,6,0,0
+3,fast cars,['table-1492-789'],9,4,0,0
+3,fast cars,['table-0909-908'],14,5,3,0
+3,fast cars,['table-0928-773'],3,2,0,0
+3,fast cars,['table-1254-979'],5,3,1,0
+3,fast cars,['table-0483-357'],10,7,0,0
+4,clothing sizes,['table-1511-86'],3,12,0,2
+4,clothing sizes,['table-1417-139'],6,10,2,2
+4,clothing sizes,['table-1417-143'],5,10,0,2
+4,clothing sizes,['table-1417-136'],6,8,1,2
+4,clothing sizes,['table-1511-77'],4,12,8,1
+4,clothing sizes,['table-1511-82'],2,10,0,1
+4,clothing sizes,['table-1417-142'],5,9,0,1
+4,clothing sizes,['table-1417-149'],4,7,4,1
+4,clothing sizes,['table-1417-135'],5,9,0,1
+4,clothing sizes,['table-1417-144'],5,7,0,1
+4,clothing sizes,['table-1417-140'],6,10,0,1
+4,clothing sizes,['table-1511-79'],2,9,0,1
+4,clothing sizes,['table-1417-141'],6,10,0,1
+4,clothing sizes,['table-1417-138'],4,6,0,1
+4,clothing sizes,['table-1417-137'],2,8,0,1
+4,clothing sizes,['table-1417-148'],5,1,0,1
+4,clothing sizes,['table-1511-87'],10,6,9,1
+4,clothing sizes,['table-1417-146'],5,10,2,1
+4,clothing sizes,['table-1417-134'],5,9,0,1
+4,clothing sizes,['table-1417-145'],5,7,0,1
+5,phases of the moon,['table-0452-375'],8,5,0,1
+5,phases of the moon,['table-1264-72'],13,5,15,1
+5,phases of the moon,['table-0600-606'],9,4,0,1
+5,phases of the moon,['table-0600-604'],9,4,0,1
+5,phases of the moon,['table-0600-605'],9,4,0,1
+5,phases of the moon,['table-0600-601'],1,15,0,1
+5,phases of the moon,['table-0600-600'],3,4,1,1
+5,phases of the moon,['table-1530-281'],8,3,8,1
+5,phases of the moon,['table-1258-614'],4,10,0,1
+5,phases of the moon,['table-1444-333'],7,6,7,1
+5,phases of the moon,['table-1513-956'],5,4,6,1
+5,phases of the moon,['table-1371-139'],6,9,0,1
+5,phases of the moon,['table-0248-862'],7,8,0,1
+5,phases of the moon,['table-1421-60'],10,7,29,1
+5,phases of the moon,['table-1088-407'],12,5,0,1
+5,phases of the moon,['table-1421-59'],11,12,69,1
+5,phases of the moon,['table-1455-559'],137,5,223,0
+5,phases of the moon,['table-1599-557'],4,2,0,0
+5,phases of the moon,['table-0735-615'],10,7,28,0
+5,phases of the moon,['table-1424-83'],39,4,14,0
+6,usa population by state,['table-1506-649'],15,4,0,0
+6,usa population by state,['table-0402-824'],10,5,0,0
+6,usa population by state,['table-0349-707'],31,6,31,0
+6,usa population by state,['table-1495-660'],52,3,0,0
+6,usa population by state,['table-1588-343'],6,2,0,0
+6,usa population by state,['table-1370-780'],52,4,52,0
+6,usa population by state,['table-1393-929'],5,7,0,0
+6,usa population by state,['table-1280-419'],52,3,0,0
+6,usa population by state,['table-0729-805'],36,7,2,0
+6,usa population by state,['table-1495-661'],52,2,0,0
+6,usa population by state,['table-1421-346'],8,14,8,0
+6,usa population by state,['table-1359-957'],13,4,0,0
+6,usa population by state,['table-1393-928'],7,8,2,0
+6,usa population by state,['table-0008-994'],8,2,0,0
+6,usa population by state,['table-0364-358'],10,14,10,0
+6,usa population by state,['table-1488-888'],8,14,8,0
+6,usa population by state,['table-0386-340'],10,5,0,0
+6,usa population by state,['table-0085-402'],3,5,0,0
+6,usa population by state,['table-1560-416'],9,11,0,0
+6,usa population by state,['table-0135-490'],11,3,0,0
+7,prime ministers of england,['table-0678-625'],2,2,0,0
+7,prime ministers of england,['table-0678-627'],6,3,0,2
+7,prime ministers of england,['table-0592-701'],8,2,0,2
+7,prime ministers of england,['table-0155-146'],7,5,0,1
+7,prime ministers of england,['table-0033-959'],3,5,0,1
+7,prime ministers of england,['table-0266-218'],6,7,6,1
+7,prime ministers of england,['table-0406-281'],6,4,6,1
+7,prime ministers of england,['table-0291-159'],30,9,92,1
+7,prime ministers of england,['table-0367-173'],15,5,20,1
+7,prime ministers of england,['table-1582-619'],2,3,0,1
+7,prime ministers of england,['table-1417-774'],7,6,7,1
+7,prime ministers of england,['table-1056-349'],2,6,0,1
+7,prime ministers of england,['table-1492-675'],6,2,0,1
+7,prime ministers of england,['table-0453-280'],71,8,65,1
+7,prime ministers of england,['table-1485-305'],5,7,8,0
+7,prime ministers of england,['table-0127-274'],18,3,0,0
+7,prime ministers of england,['table-0048-583'],1,6,1,0
+7,prime ministers of england,['table-1219-416'],12,1,11,0
+7,prime ministers of england,['table-0048-585'],4,6,4,0
+7,prime ministers of england,['table-0048-575'],4,6,4,0
+8,ipod models,['table-0176-187'],17,8,17,0
+8,ipod models,['table-0145-207'],49,8,49,0
+8,ipod models,['table-1358-28'],5,8,5,0
+8,ipod models,['table-0044-50'],6,7,0,0
+8,ipod models,['table-1389-263'],15,10,0,0
+8,ipod models,['table-1389-264'],15,7,0,0
+8,ipod models,['table-0569-730'],0,1,0,0
+8,ipod models,['table-0125-915'],4,3,3,0
+8,ipod models,['table-1389-262'],15,10,0,0
+8,ipod models,['table-0625-924'],5,2,0,0
+8,ipod models,['table-0177-459'],12,6,0,0
+8,ipod models,['table-0249-249'],2,1,0,0
+8,ipod models,['table-1610-48'],17,3,0,0
+8,ipod models,['table-0633-54'],11,2,0,0
+8,ipod models,['table-0628-491'],8,9,0,0
+8,ipod models,['table-1509-515'],4,3,0,0
+8,ipod models,['table-0859-564'],11,6,0,0
+8,ipod models,['table-0359-356'],6,4,0,0
+8,ipod models,['table-1272-540'],6,5,1,0
+8,ipod models,['table-1125-871'],10,5,0,0
+9,bittorrent clients,['table-1619-337'],46,8,0,0
+9,bittorrent clients,['table-0601-200'],10,4,10,0
+9,bittorrent clients,['table-0601-199'],5,5,13,0
+9,bittorrent clients,['table-1619-336'],49,4,0,0
+9,bittorrent clients,['table-0601-201'],6,3,0,0
+9,bittorrent clients,['table-0600-579'],44,12,0,0
+9,bittorrent clients,['table-0371-314'],4,2,0,2
+9,bittorrent clients,['table-0371-315'],28,3,0,2
+9,bittorrent clients,['table-0471-463'],5,7,0,2
+9,bittorrent clients,['table-0148-456'],12,4,0,2
+9,bittorrent clients,['table-0430-782'],19,3,0,2
+9,bittorrent clients,['table-0550-41'],6,3,3,2
+9,bittorrent clients,['table-1402-475'],2,6,1,2
+9,bittorrent clients,['table-1403-409'],23,15,0,2
+9,bittorrent clients,['table-1415-938'],18,2,0,2
+9,bittorrent clients,['table-0585-98'],27,6,5,2
+9,bittorrent clients,['table-1402-476'],3,6,0,2
+9,bittorrent clients,['table-0599-803'],25,10,5,2
+9,bittorrent clients,['table-0848-924'],20,3,10,2
+9,bittorrent clients,['table-1627-471'],4,2,0,2
+10,olympus digital slrs,['table-0791-274'],14,40,302,2
+10,olympus digital slrs,['table-1091-421'],46,38,944,2
+10,olympus digital slrs,['table-1387-237'],46,38,944,2
+10,olympus digital slrs,['table-1384-649'],196,5,227,2
+10,olympus digital slrs,['table-1384-651'],11,4,11,2
+10,olympus digital slrs,['table-1384-654'],2,2,2,2
+10,olympus digital slrs,['table-1384-652'],21,4,60,2
+10,olympus digital slrs,['table-0152-596'],35,4,0,2
+10,olympus digital slrs,['table-0384-352'],19,6,9,2
+10,olympus digital slrs,['table-0384-354'],3,6,2,2
+10,olympus digital slrs,['table-1384-653'],9,2,9,2
+10,olympus digital slrs,['table-0384-349'],11,6,7,2
+10,olympus digital slrs,['table-0384-350'],10,6,6,2
+10,olympus digital slrs,['table-0512-745'],1,3,0,1
+10,olympus digital slrs,['table-0384-348'],2,6,2,0
+10,olympus digital slrs,['table-0384-351'],4,6,2,0
+10,olympus digital slrs,['table-0984-275'],35,4,4,0
+10,olympus digital slrs,['table-1398-928'],26,6,24,0
+10,olympus digital slrs,['table-0921-716'],6,6,4,0
+10,olympus digital slrs,['table-1462-369'],51,3,51,0
+11,composition of the sun,['table-0891-868'],10,3,0,0
+11,composition of the sun,['table-0891-869'],6,3,0,0
+11,composition of the sun,['table-1016-927'],7,3,5,0
+11,composition of the sun,['table-0362-968'],11,4,0,0
+11,composition of the sun,['table-0179-26'],4,6,0,0
+11,composition of the sun,['table-1579-543'],6,8,0,0
+11,composition of the sun,['table-0028-393'],12,4,8,0
+11,composition of the sun,['table-1622-305'],8,2,0,0
+11,composition of the sun,['table-1627-735'],3,4,0,0
+11,composition of the sun,['table-1256-358'],7,3,1,0
+11,composition of the sun,['table-1383-130'],4,2,0,0
+11,composition of the sun,['table-0265-529'],1,2,1,0
+11,composition of the sun,['table-1423-213'],1,3,1,0
+11,composition of the sun,['table-1479-56'],2,2,0,0
+11,composition of the sun,['table-1479-55'],2,2,0,0
+11,composition of the sun,['table-0951-285'],6,3,0,0
+11,composition of the sun,['table-0313-781'],10,2,0,0
+11,composition of the sun,['table-0951-286'],3,3,0,0
+11,composition of the sun,['table-1283-492'],8,2,0,0
+11,composition of the sun,['table-1518-448'],10,5,43,0
+12,running shoes,['table-1315-700'],4,3,4,0
+12,running shoes,['table-0016-922'],2,2,1,0
+12,running shoes,['table-1520-40'],32,12,0,0
+12,running shoes,['table-1520-42'],40,4,25,2
+12,running shoes,['table-0146-573'],3,3,0,2
+12,running shoes,['table-0943-565'],146,8,0,1
+12,running shoes,['table-0077-563'],5,2,3,1
+12,running shoes,['table-0146-574'],3,4,0,1
+12,running shoes,['table-0012-373'],5,2,0,1
+12,running shoes,['table-0066-658'],34,15,0,1
+12,running shoes,['table-1230-725'],35,5,3,1
+12,running shoes,['table-1591-155'],23,14,19,1
+12,running shoes,['table-1653-388'],5,4,0,1
+12,running shoes,['table-1596-10'],4,4,0,1
+12,running shoes,['table-1204-834'],45,5,0,0
+12,running shoes,['table-1028-382'],96,5,0,0
+12,running shoes,['table-0159-635'],2,2,0,0
+12,running shoes,['table-0969-18'],5,3,0,0
+12,running shoes,['table-1420-566'],4,4,0,0
+12,running shoes,['table-0831-904'],1,2,0,0
+13,fuel consumption,['table-1613-935'],9,4,1,0
+13,fuel consumption,['table-1447-381'],8,4,0,0
+13,fuel consumption,['table-0482-24'],9,4,1,0
+13,fuel consumption,['table-0263-444'],7,6,0,0
+13,fuel consumption,['table-0311-394'],7,6,0,0
+13,fuel consumption,['table-1320-890'],7,6,0,0
+13,fuel consumption,['table-0311-393'],2,5,0,0
+13,fuel consumption,['table-1545-121'],7,3,0,0
+13,fuel consumption,['table-0686-862'],5,2,0,0
+13,fuel consumption,['table-0204-990'],1,6,0,0
+13,fuel consumption,['table-0610-56'],13,16,0,0
+13,fuel consumption,['table-1597-359'],1,5,0,0
+13,fuel consumption,['table-0072-231'],6,5,0,0
+13,fuel consumption,['table-1647-839'],4,3,4,0
+13,fuel consumption,['table-1447-380'],6,4,0,0
+13,fuel consumption,['table-1640-284'],19,4,0,0
+13,fuel consumption,['table-1036-133'],29,6,0,0
+13,fuel consumption,['table-0925-91'],8,8,8,0
+13,fuel consumption,['table-1365-737'],10,3,0,0
+13,fuel consumption,['table-1515-997'],9,8,8,0
+14,stock quote tables,['table-0354-325'],89,6,1,0
+14,stock quote tables,['table-0370-691'],23,2,0,0
+14,stock quote tables,['table-1281-687'],20,8,15,0
+14,stock quote tables,['table-1579-731'],38,6,32,0
+14,stock quote tables,['table-0503-892'],7,2,0,0
+14,stock quote tables,['table-0896-9'],36,7,71,0
+14,stock quote tables,['table-1392-358'],2,1,0,0
+14,stock quote tables,['table-1579-348'],31,5,0,0
+14,stock quote tables,['table-0534-18'],1,3,0,0
+14,stock quote tables,['table-1350-486'],0,1,0,0
+14,stock quote tables,['table-0352-129'],2,3,0,0
+14,stock quote tables,['table-1277-865'],25,6,37,0
+14,stock quote tables,['table-1250-339'],0,1,37,1
+14,stock quote tables,['table-1647-73'],0,1,37,1
+14,stock quote tables,['table-1621-415'],0,1,37,1
+14,stock quote tables,['table-1317-895'],5,3,0,1
+14,stock quote tables,['table-0833-423'],0,1,0,1
+14,stock quote tables,['table-1012-862'],1,2,0,1
+14,stock quote tables,['table-1317-894'],5,3,0,1
+14,stock quote tables,['table-0259-660'],2,4,4,1
+15,top grossing movies,['table-1413-652'],15,8,0,1
+15,top grossing movies,['table-1413-648'],10,9,0,1
+15,top grossing movies,['table-1413-655'],22,10,5,1
+15,top grossing movies,['table-1413-649'],24,10,0,0
+15,top grossing movies,['table-0312-73'],2,4,2,0
+15,top grossing movies,['table-0312-63'],3,3,3,0
+15,top grossing movies,['table-0312-74'],1,3,0,0
+15,top grossing movies,['table-0311-929'],10,5,6,0
+15,top grossing movies,['table-0312-67'],4,3,4,0
+15,top grossing movies,['table-0312-70'],19,3,17,0
+15,top grossing movies,['table-0311-758'],20,5,18,0
+15,top grossing movies,['table-0312-60'],8,3,6,0
+15,top grossing movies,['table-0308-599'],25,6,0,0
+15,top grossing movies,['table-0312-44'],11,3,9,0
+15,top grossing movies,['table-0312-62'],6,3,6,0
+15,top grossing movies,['table-0312-45'],8,3,6,0
+15,top grossing movies,['table-0306-942'],20,6,0,0
+15,top grossing movies,['table-0312-48'],12,3,12,0
+15,top grossing movies,['table-0312-31'],13,3,10,0
+15,top grossing movies,['table-0311-917'],10,4,0,0
+16,nutrition values,['table-0172-991'],5,3,0,0
+16,nutrition values,['table-1180-888'],10,6,0,0
+16,nutrition values,['table-0096-57'],13,2,4,0
+16,nutrition values,['table-0704-620'],12,4,0,0
+16,nutrition values,['table-0401-729'],6,4,0,0
+16,nutrition values,['table-1424-415'],6,2,0,0
+16,nutrition values,['table-1441-100'],1,3,0,0
+16,nutrition values,['table-0523-269'],10,3,0,0
+16,nutrition values,['table-0431-12'],6,8,1,0
+16,nutrition values,['table-0633-236'],28,2,4,0
+16,nutrition values,['table-1007-407'],10,2,0,0
+16,nutrition values,['table-0949-855'],9,3,2,0
+16,nutrition values,['table-0056-298'],18,2,4,0
+16,nutrition values,['table-1515-757'],7,3,0,0
+16,nutrition values,['table-0766-472'],7,3,0,0
+16,nutrition values,['table-0336-744'],7,2,0,0
+16,nutrition values,['table-1573-732'],0,0,0,0
+16,nutrition values,['table-0705-117'],2,3,0,0
+16,nutrition values,['table-0811-503'],2,12,1,0
+16,nutrition values,['table-0853-865'],2,9,3,0
+17,state capitals and largest cities in us,['table-0677-684'],50,10,15,0
+17,state capitals and largest cities in us,['table-1027-78'],9,3,8,0
+17,state capitals and largest cities in us,['table-1027-79'],45,4,27,2
+17,state capitals and largest cities in us,['table-1007-884'],8,7,8,0
+17,state capitals and largest cities in us,['table-0160-841'],115,5,0,0
+17,state capitals and largest cities in us,['table-1258-777'],77,7,265,0
+17,state capitals and largest cities in us,['table-1442-99'],10,5,7,0
+17,state capitals and largest cities in us,['table-1442-89'],10,5,0,0
+17,state capitals and largest cities in us,['table-1442-88'],10,5,6,0
+17,state capitals and largest cities in us,['table-1442-90'],10,5,5,0
+17,state capitals and largest cities in us,['table-0349-674'],10,5,0,0
+17,state capitals and largest cities in us,['table-1442-91'],10,5,4,0
+17,state capitals and largest cities in us,['table-1442-78'],11,5,2,0
+17,state capitals and largest cities in us,['table-1365-564'],25,9,125,0
+17,state capitals and largest cities in us,['table-1442-92'],10,5,4,0
+17,state capitals and largest cities in us,['table-1442-96'],10,5,6,0
+17,state capitals and largest cities in us,['table-1571-18'],16,4,0,0
+17,state capitals and largest cities in us,['table-0653-392'],15,4,0,0
+17,state capitals and largest cities in us,['table-1365-563'],50,6,193,0
+17,state capitals and largest cities in us,['table-1216-304'],12,5,0,0
+18,professional wrestlers,['table-0650-177'],29,7,9,0
+18,professional wrestlers,['table-0650-179'],33,8,0,0
+18,professional wrestlers,['table-0650-180'],15,7,0,0
+18,professional wrestlers,['table-0024-849'],4,5,2,0
+18,professional wrestlers,['table-0024-850'],2,5,0,0
+18,professional wrestlers,['table-0024-851'],3,5,1,0
+18,professional wrestlers,['table-0024-852'],2,5,1,0
+18,professional wrestlers,['table-0884-202'],19,4,18,0
+18,professional wrestlers,['table-0650-178'],53,7,5,0
+18,professional wrestlers,['table-0884-203'],3,4,2,0
+18,professional wrestlers,['table-0575-338'],18,3,8,0
+18,professional wrestlers,['table-1515-871'],9,2,0,0
+18,professional wrestlers,['table-0493-911'],18,4,18,0
+18,professional wrestlers,['table-0899-963'],3,3,2,0
+18,professional wrestlers,['table-0588-897'],5,4,7,0
+18,professional wrestlers,['table-0575-330'],6,3,3,0
+18,professional wrestlers,['table-0148-534'],10,3,0,0
+18,professional wrestlers,['table-0587-437'],2,3,1,0
+18,professional wrestlers,['table-0826-552'],4,2,3,0
+18,professional wrestlers,['table-0575-375'],15,3,11,0
+19,company income statements,['table-0578-304'],3,2,0,0
+19,company income statements,['table-0540-631'],171,4,84,0
+19,company income statements,['table-0944-63'],54,6,82,0
+19,company income statements,['table-0009-819'],17,2,0,0
+19,company income statements,['table-0292-548'],7,4,0,0
+19,company income statements,['table-1453-183'],2,3,0,0
+19,company income statements,['table-1453-180'],2,2,0,0
+19,company income statements,['table-1453-178'],5,9,0,0
+19,company income statements,['table-1508-452'],5,2,1,0
+19,company income statements,['table-1605-522'],4,5,0,0
+19,company income statements,['table-0388-272'],56,3,0,0
+19,company income statements,['table-0432-545'],17,6,28,0
+19,company income statements,['table-0922-919'],11,3,2,0
+19,company income statements,['table-0543-163'],4,3,0,0
+19,company income statements,['table-1453-184'],6,4,0,0
+19,company income statements,['table-0189-547'],7,2,0,0
+19,company income statements,['table-1388-434'],6,4,0,0
+19,company income statements,['table-0090-107'],12,10,0,0
+19,company income statements,['table-0649-521'],6,3,0,0
+19,company income statements,['table-1352-406'],55,4,3,2
+20,dog breeds,['table-1591-498'],486,10,2092,2
+20,dog breeds,['table-0202-12'],12,4,9,1
+20,dog breeds,['table-0552-212'],11,5,22,1
+20,dog breeds,['table-0397-909'],71,7,68,1
+20,dog breeds,['table-1531-715'],24,2,24,1
+20,dog breeds,['table-1531-714'],26,2,26,1
+20,dog breeds,['table-0397-906'],34,7,111,1
+20,dog breeds,['table-0636-282'],4,3,0,1
+20,dog breeds,['table-1051-457'],31,5,13,1
+20,dog breeds,['table-0397-592'],34,7,0,1
+20,dog breeds,['table-1051-395'],59,5,84,0
+20,dog breeds,['table-1628-977'],10,2,0,0
+20,dog breeds,['table-1628-974'],10,3,0,0
+20,dog breeds,['table-0397-591'],29,6,1,0
+20,dog breeds,['table-0552-213'],3,5,6,0
+20,dog breeds,['table-1628-976'],10,3,0,0
+20,dog breeds,['table-1628-971'],10,3,0,0
+20,dog breeds,['table-1628-969'],10,3,0,0
+20,dog breeds,['table-1628-973'],10,3,0,0
+20,dog breeds,['table-1628-972'],10,2,0,0
+21,ibanez guitars,['table-0057-386'],10,4,9,0
+21,ibanez guitars,['table-0222-392'],1,1,0,0
+21,ibanez guitars,['table-1350-462'],5,3,5,0
+21,ibanez guitars,['table-1207-486'],18,4,17,0
+21,ibanez guitars,['table-0061-292'],1,2,0,0
+21,ibanez guitars,['table-1227-229'],16,5,5,0
+21,ibanez guitars,['table-0167-101'],14,9,85,0
+21,ibanez guitars,['table-1151-607'],1,2,1,0
+21,ibanez guitars,['table-0825-384'],20,18,222,0
+21,ibanez guitars,['table-0038-57'],1,3,0,0
+21,ibanez guitars,['table-1493-389'],21,4,19,0
+21,ibanez guitars,['table-0611-612'],2,4,1,0
+21,ibanez guitars,['table-1410-903'],4,4,0,0
+21,ibanez guitars,['table-1448-537'],1,2,0,0
+21,ibanez guitars,['table-0496-390'],54,4,0,0
+21,ibanez guitars,['table-1566-260'],9,3,9,0
+21,ibanez guitars,['table-0546-462'],23,4,0,0
+21,ibanez guitars,['table-0098-94'],1,2,1,0
+21,ibanez guitars,['table-0098-92'],1,2,0,0
+21,ibanez guitars,['table-0824-185'],2,2,0,0
+22,used cellphones,['table-1360-400'],4,3,0,0
+22,used cellphones,['table-1383-553'],10,4,8,0
+22,used cellphones,['table-0406-400'],186,3,0,0
+22,used cellphones,['table-0532-499'],5,3,0,0
+22,used cellphones,['table-0570-258'],23,10,37,0
+22,used cellphones,['table-0640-506'],4,10,0,0
+22,used cellphones,['table-1626-811'],8,17,6,2
+22,used cellphones,['table-1582-187'],6,2,0,2
+22,used cellphones,['table-0364-40'],4,2,1,2
+22,used cellphones,['table-0695-982'],22,4,22,2
+22,used cellphones,['table-0364-38'],1,2,1,2
+22,used cellphones,['table-0721-578'],0,1,1,1
+22,used cellphones,['table-0591-574'],23,4,10,1
+22,used cellphones,['table-1060-439'],3,2,0,1
+22,used cellphones,['table-0401-930'],6,4,0,0
+22,used cellphones,['table-0295-94'],6,17,47,0
+22,used cellphones,['table-1390-483'],17,4,31,0
+22,used cellphones,['table-0366-775'],32,22,552,0
+22,used cellphones,['table-0366-773'],42,22,764,0
+22,used cellphones,['table-0448-223'],0,1,764,0
+23,world religions,['table-0813-442'],15,2,0,0
+23,world religions,['table-1070-326'],9,5,8,0
+23,world religions,['table-1070-327'],16,5,14,0
+23,world religions,['table-1554-331'],20,7,19,0
+23,world religions,['table-0270-496'],14,5,13,0
+23,world religions,['table-1554-330'],20,7,0,0
+23,world religions,['table-1420-880'],15,6,0,0
+23,world religions,['table-0830-358'],9,4,8,0
+23,world religions,['table-0498-297'],9,2,0,0
+23,world religions,['table-0458-601'],16,2,0,0
+23,world religions,['table-1007-467'],20,5,18,0
+23,world religions,['table-1176-644'],4,4,0,0
+23,world religions,['table-0209-363'],10,3,0,0
+23,world religions,['table-0103-625'],14,5,13,0
+23,world religions,['table-0333-158'],7,3,0,0
+23,world religions,['table-1579-470'],14,5,13,0
+23,world religions,['table-1407-668'],5,5,0,0
+23,world religions,['table-1587-825'],18,3,0,0
+23,world religions,['table-1226-910'],10,4,10,0
+23,world religions,['table-0339-698'],9,3,0,0
+24,stocks,['table-1335-447'],1,3,0,0
+24,stocks,['table-0708-258'],2,3,0,0
+24,stocks,['table-0202-593'],4,5,0,0
+24,stocks,['table-0468-712'],10,4,15,0
+24,stocks,['table-0581-69'],5,2,0,0
+24,stocks,['table-0729-940'],3,5,6,0
+24,stocks,['table-1452-734'],4,2,0,0
+24,stocks,['table-1416-853'],8,3,0,0
+24,stocks,['table-0120-714'],1,3,0,0
+24,stocks,['table-0678-940'],2,3,0,0
+24,stocks,['table-1492-768'],26,4,0,0
+24,stocks,['table-0630-912'],8,2,0,0
+24,stocks,['table-0189-549'],7,6,8,0
+24,stocks,['table-0355-152'],13,7,22,0
+24,stocks,['table-1027-438'],7,2,0,0
+24,stocks,['table-1452-735'],0,0,0,2
+24,stocks,['table-1452-736'],14,4,7,2
+24,stocks,['table-1492-782'],21,4,10,2
+24,stocks,['table-0521-809'],21,4,2,2
+24,stocks,['table-1492-801'],10,4,0,2
+25,academy awards,['table-1469-456'],60,4,30,1
+25,academy awards,['table-0569-906'],60,4,30,1
+25,academy awards,['table-0569-905'],60,4,30,1
+25,academy awards,['table-0569-907'],60,4,30,1
+25,academy awards,['table-0569-903'],60,4,30,1
+25,academy awards,['table-1469-451'],60,4,30,1
+25,academy awards,['table-0569-902'],57,4,30,1
+25,academy awards,['table-0569-904'],60,4,30,1
+25,academy awards,['table-0569-908'],60,4,30,1
+25,academy awards,['table-1469-455'],60,4,30,1
+25,academy awards,['table-1469-454'],60,4,30,0
+25,academy awards,['table-1469-453'],60,4,30,0
+25,academy awards,['table-1469-452'],60,4,30,0
+25,academy awards,['table-1469-457'],60,4,30,0
+25,academy awards,['table-0569-909'],60,4,30,0
+25,academy awards,['table-0569-899'],10,4,6,0
+25,academy awards,['table-1469-448'],24,4,12,0
+25,academy awards,['table-1469-458'],18,4,9,0
+25,academy awards,['table-0569-900'],18,4,9,0
+25,academy awards,['table-0428-815'],4,4,4,0
+26,2008 olympic gold medal winners,['table-0529-771'],21,11,0,0
+26,2008 olympic gold medal winners,['table-0529-770'],27,11,0,0
+26,2008 olympic gold medal winners,['table-0387-60'],1,4,0,0
+26,2008 olympic gold medal winners,['table-0387-47'],2,4,0,0
+26,2008 olympic gold medal winners,['table-0109-237'],29,7,0,0
+26,2008 olympic gold medal winners,['table-1479-337'],4,4,0,0
+26,2008 olympic gold medal winners,['table-1295-621'],7,4,1,0
+26,2008 olympic gold medal winners,['table-0713-460'],5,4,0,0
+26,2008 olympic gold medal winners,['table-0675-934'],6,5,6,0
+26,2008 olympic gold medal winners,['table-0511-959'],6,4,0,0
+26,2008 olympic gold medal winners,['table-0420-837'],12,4,0,0
+26,2008 olympic gold medal winners,['table-0952-496'],8,8,0,0
+26,2008 olympic gold medal winners,['table-0180-427'],11,4,0,0
+26,2008 olympic gold medal winners,['table-0675-896'],5,5,5,0
+26,2008 olympic gold medal winners,['table-0349-8'],11,4,0,2
+26,2008 olympic gold medal winners,['table-0677-812'],9,4,0,1
+26,2008 olympic gold medal winners,['table-0677-673'],11,5,11,0
+26,2008 olympic gold medal winners,['table-0675-954'],6,5,6,0
+26,2008 olympic gold medal winners,['table-0675-947'],5,5,5,0
+26,2008 olympic gold medal winners,['table-0676-60'],9,5,9,0
+27,currencies of different countries,['table-0007-925'],17,4,0,0
+27,currencies of different countries,['table-0610-22'],18,7,13,0
+27,currencies of different countries,['table-0007-924'],8,4,0,0
+27,currencies of different countries,['table-0065-495'],7,8,7,0
+27,currencies of different countries,['table-0610-21'],13,7,1,0
+27,currencies of different countries,['table-0208-817'],19,4,0,0
+27,currencies of different countries,['table-0296-506'],25,6,48,0
+27,currencies of different countries,['table-0015-426'],4,3,0,0
+27,currencies of different countries,['table-0012-462'],1,2,1,0
+27,currencies of different countries,['table-0763-642'],6,3,0,0
+27,currencies of different countries,['table-0383-589'],49,4,34,0
+27,currencies of different countries,['table-0804-473'],21,3,21,0
+27,currencies of different countries,['table-0695-860'],36,2,0,0
+27,currencies of different countries,['table-1533-500'],45,11,232,0
+27,currencies of different countries,['table-0696-428'],8,2,0,0
+27,currencies of different countries,['table-1349-560'],4,3,0,0
+27,currencies of different countries,['table-1397-454'],6,4,0,0
+27,currencies of different countries,['table-1645-397'],16,3,0,0
+27,currencies of different countries,['table-1645-396'],35,3,0,0
+27,currencies of different countries,['table-0135-660'],7,4,8,0
+28,science discoveries,['table-1116-768'],1,5,0,0
+28,science discoveries,['table-1116-904'],1,5,0,0
+28,science discoveries,['table-1117-4'],1,5,1,0
+28,science discoveries,['table-1117-80'],1,5,0,0
+28,science discoveries,['table-1320-478'],22,4,31,0
+28,science discoveries,['table-1571-795'],13,7,10,0
+28,science discoveries,['table-1014-332'],5,7,1,0
+28,science discoveries,['table-0011-447'],16,5,9,0
+28,science discoveries,['table-0011-449'],2,5,2,0
+28,science discoveries,['table-1607-162'],13,2,0,0
+28,science discoveries,['table-0104-408'],23,4,0,0
+28,science discoveries,['table-0011-452'],6,6,6,0
+28,science discoveries,['table-1150-885'],12,5,4,0
+28,science discoveries,['table-0011-448'],6,5,4,0
+28,science discoveries,['table-1517-609'],38,4,0,0
+28,science discoveries,['table-0587-13'],268,4,0,0
+28,science discoveries,['table-1251-940'],0,1,0,0
+28,science discoveries,['table-1188-685'],284,4,213,0
+28,science discoveries,['table-1518-807'],72,4,0,0
+28,science discoveries,['table-0230-966'],3,4,3,0
+29,pga leaderboard,['table-0355-972'],13,6,0,0
+29,pga leaderboard,['table-0356-511'],11,6,0,0
+29,pga leaderboard,['table-0356-611'],11,6,0,0
+29,pga leaderboard,['table-0111-77'],11,6,0,0
+29,pga leaderboard,['table-0355-422'],12,6,0,0
+29,pga leaderboard,['table-0357-725'],13,6,0,0
+29,pga leaderboard,['table-0355-804'],13,6,0,0
+29,pga leaderboard,['table-0357-944'],10,6,0,0
+29,pga leaderboard,['table-0356-174'],14,6,0,0
+29,pga leaderboard,['table-0358-30'],14,6,0,0
+29,pga leaderboard,['table-0428-148'],10,6,0,0
+29,pga leaderboard,['table-0428-136'],10,6,0,0
+29,pga leaderboard,['table-0356-842'],14,6,0,0
+29,pga leaderboard,['table-0427-703'],10,6,0,0
+29,pga leaderboard,['table-0427-720'],10,6,0,0
+29,pga leaderboard,['table-0357-260'],10,6,0,0
+29,pga leaderboard,['table-0428-156'],10,6,0,0
+29,pga leaderboard,['table-0357-162'],13,6,0,0
+29,pga leaderboard,['table-0357-364'],11,6,0,0
+29,pga leaderboard,['table-0428-118'],10,6,0,0
+30,pain medications,['table-1012-983'],10,2,0,0
+30,pain medications,['table-1012-982'],7,2,0,0
+30,pain medications,['table-1253-977'],8,2,0,0
+30,pain medications,['table-1253-975'],8,2,0,0
+30,pain medications,['table-1253-970'],13,2,0,0
+30,pain medications,['table-0092-887'],7,2,0,0
+30,pain medications,['table-0779-302'],3,4,0,0
+30,pain medications,['table-1253-973'],7,2,0,0
+30,pain medications,['table-1253-974'],6,2,0,0
+30,pain medications,['table-0520-188'],4,2,0,0
+30,pain medications,['table-1253-987'],4,2,0,0
+30,pain medications,['table-0105-711'],12,3,0,0
+30,pain medications,['table-0732-148'],5,4,0,0
+30,pain medications,['table-1253-984'],6,2,0,0
+30,pain medications,['table-0884-479'],0,1,0,0
+30,pain medications,['table-1253-972'],3,2,0,0
+30,pain medications,['table-0367-68'],12,3,0,0
+30,pain medications,['table-1444-126'],6,3,6,0
+30,pain medications,['table-1303-115'],5,6,0,0
+30,pain medications,['table-1253-982'],8,3,0,0
+31,football clubs city,['table-1517-710'],5,3,0,0
+31,football clubs city,['table-0257-379'],13,4,12,0
+31,football clubs city,['table-0202-113'],24,3,0,0
+31,football clubs city,['table-0873-520'],8,4,0,0
+31,football clubs city,['table-1565-65'],11,2,0,0
+31,football clubs city,['table-1537-751'],12,3,0,0
+31,football clubs city,['table-0347-736'],9,4,19,0
+31,football clubs city,['table-1550-209'],7,3,0,0
+31,football clubs city,['table-1550-196'],5,3,0,0
+31,football clubs city,['table-1287-861'],12,4,0,0
+31,football clubs city,['table-1550-999'],8,2,0,0
+31,football clubs city,['table-1565-676'],12,2,7,0
+31,football clubs city,['table-1594-912'],8,2,8,0
+31,football clubs city,['table-1565-710'],12,2,0,0
+31,football clubs city,['table-0017-237'],19,4,8,0
+31,football clubs city,['table-1550-207'],1,3,0,0
+31,football clubs city,['table-1550-201'],2,3,0,0
+31,football clubs city,['table-1551-19'],9,2,0,0
+31,football clubs city,['table-0730-628'],8,5,0,0
+31,football clubs city,['table-1550-200'],1,3,0,0
+32,healthy food cost,['table-0450-575'],15,7,0,0
+32,healthy food cost,['table-0573-741'],12,3,0,0
+32,healthy food cost,['table-0450-572'],10,6,0,0
+32,healthy food cost,['table-0625-421'],19,16,32,0
+32,healthy food cost,['table-1090-435'],10,4,10,2
+32,healthy food cost,['table-0092-585'],9,4,0,2
+32,healthy food cost,['table-0688-862'],6,8,0,2
+32,healthy food cost,['table-0450-569'],8,5,0,2
+32,healthy food cost,['table-1460-55'],7,3,0,2
+32,healthy food cost,['table-0972-522'],15,2,2,2
+32,healthy food cost,['table-1289-998'],20,5,0,2
+32,healthy food cost,['table-0867-339'],18,3,0,2
+32,healthy food cost,['table-1371-959'],78,7,0,2
+32,healthy food cost,['table-1106-217'],22,4,0,2
+32,healthy food cost,['table-1598-562'],7,3,0,2
+32,healthy food cost,['table-0290-355'],34,2,0,2
+32,healthy food cost,['table-0349-205'],137,5,137,1
+32,healthy food cost,['table-0679-737'],12,3,0,1
+32,healthy food cost,['table-0144-887'],3,2,0,1
+32,healthy food cost,['table-1547-182'],6,3,0,1
+33,capitals attractions,['table-1647-680'],14,5,20,1
+33,capitals attractions,['table-0264-11'],10,5,0,1
+33,capitals attractions,['table-0541-196'],5,8,0,1
+33,capitals attractions,['table-1249-780'],8,3,6,1
+33,capitals attractions,['table-0264-10'],10,5,0,1
+33,capitals attractions,['table-0436-693'],1,3,0,1
+33,capitals attractions,['table-0105-792'],4,2,0,1
+33,capitals attractions,['table-1442-709'],4,2,3,1
+33,capitals attractions,['table-0290-545'],2,3,2,1
+33,capitals attractions,['table-0259-373'],12,4,0,1
+33,capitals attractions,['table-0215-300'],4,3,0,1
+33,capitals attractions,['table-1400-611'],2,5,3,1
+33,capitals attractions,['table-0837-624'],3,5,0,1
+33,capitals attractions,['table-1203-97'],9,3,0,1
+33,capitals attractions,['table-0814-469'],2,5,1,1
+33,capitals attractions,['table-1201-576'],6,6,7,1
+33,capitals attractions,['table-0977-706'],6,7,6,1
+33,capitals attractions,['table-0814-494'],2,5,0,1
+33,capitals attractions,['table-0791-515'],5,5,1,1
+33,capitals attractions,['table-0814-443'],3,4,0,1
+34,diseases mortality,['table-0218-202'],14,6,0,1
+34,diseases mortality,['table-1646-857'],27,4,24,1
+34,diseases mortality,['table-1087-848'],22,3,0,1
+34,diseases mortality,['table-1087-909'],22,3,0,1
+34,diseases mortality,['table-0260-605'],22,3,0,0
+34,diseases mortality,['table-1087-874'],22,3,0,0
+34,diseases mortality,['table-0171-322'],22,3,0,0
+34,diseases mortality,['table-1087-836'],22,3,0,0
+34,diseases mortality,['table-1087-878'],22,3,0,0
+34,diseases mortality,['table-1087-876'],22,3,0,0
+34,diseases mortality,['table-1087-872'],22,3,0,0
+34,diseases mortality,['table-1087-870'],22,3,0,0
+34,diseases mortality,['table-1087-922'],22,3,0,2
+34,diseases mortality,['table-1087-917'],22,3,0,1
+34,diseases mortality,['table-1087-864'],22,3,0,1
+34,diseases mortality,['table-1087-873'],22,3,0,0
+34,diseases mortality,['table-1087-867'],22,3,0,0
+34,diseases mortality,['table-1087-857'],22,3,0,0
+34,diseases mortality,['table-1087-860'],22,3,0,0
+34,diseases mortality,['table-1087-863'],22,3,0,0
+35,cigarette brands market share,['table-1080-585'],93,6,290,0
+35,cigarette brands market share,['table-0981-339'],9,5,2,0
+35,cigarette brands market share,['table-1489-449'],6,5,1,0
+35,cigarette brands market share,['table-1647-305'],5,3,0,0
+35,cigarette brands market share,['table-0459-793'],4,2,0,0
+35,cigarette brands market share,['table-1015-247'],4,6,0,0
+35,cigarette brands market share,['table-0453-219'],5,2,0,0
+35,cigarette brands market share,['table-1005-652'],10,6,0,0
+35,cigarette brands market share,['table-0735-912'],18,8,34,0
+35,cigarette brands market share,['table-0245-556'],29,3,0,0
+35,cigarette brands market share,['table-0598-146'],6,6,0,0
+35,cigarette brands market share,['table-0130-23'],8,2,0,0
+35,cigarette brands market share,['table-0735-908'],13,3,0,0
+35,cigarette brands market share,['table-0865-947'],10,4,0,0
+35,cigarette brands market share,['table-0452-64'],6,2,0,0
+35,cigarette brands market share,['table-1015-246'],4,4,0,0
+35,cigarette brands market share,['table-1402-905'],8,9,4,0
+35,cigarette brands market share,['table-1352-417'],28,4,3,0
+35,cigarette brands market share,['table-1353-195'],4,4,0,0
+35,cigarette brands market share,['table-0709-584'],6,12,13,0
+36,apples market share,['table-1334-944'],6,2,0,0
+36,apples market share,['table-0709-586'],6,16,13,0
+36,apples market share,['table-0709-584'],6,12,13,0
+36,apples market share,['table-0385-764'],2,4,0,0
+36,apples market share,['table-1333-198'],7,5,14,0
+36,apples market share,['table-0385-766'],3,4,0,0
+36,apples market share,['table-1005-652'],10,6,0,0
+36,apples market share,['table-0385-765'],3,4,0,0
+36,apples market share,['table-0385-768'],2,4,0,0
+36,apples market share,['table-0245-556'],29,3,0,0
+36,apples market share,['table-1508-914'],7,7,0,0
+36,apples market share,['table-1015-246'],4,4,0,0
+36,apples market share,['table-0194-547'],26,11,44,0
+36,apples market share,['table-1647-305'],5,3,0,0
+36,apples market share,['table-1402-905'],8,9,4,0
+36,apples market share,['table-1489-146'],10,3,0,0
+36,apples market share,['table-1356-222'],9,3,0,0
+36,apples market share,['table-0598-146'],6,6,0,0
+36,apples market share,['table-0735-908'],13,3,0,0
+36,apples market share,['table-1015-247'],4,6,0,0
+37,healthy food nutritional value,['table-0687-978'],8,4,8,0
+37,healthy food nutritional value,['table-0327-289'],4,3,0,0
+37,healthy food nutritional value,['table-0521-373'],4,5,0,0
+37,healthy food nutritional value,['table-1108-894'],11,3,0,0
+37,healthy food nutritional value,['table-0123-682'],13,3,7,0
+37,healthy food nutritional value,['table-1573-730'],35,2,0,0
+37,healthy food nutritional value,['table-1441-100'],1,3,0,0
+37,healthy food nutritional value,['table-1616-533'],21,7,0,0
+37,healthy food nutritional value,['table-1639-747'],1,6,0,0
+37,healthy food nutritional value,['table-1375-531'],9,3,1,2
+37,healthy food nutritional value,['table-1627-93'],2,7,0,2
+37,healthy food nutritional value,['table-1563-283'],3,2,0,2
+37,healthy food nutritional value,['table-1536-294'],20,3,0,2
+37,healthy food nutritional value,['table-1304-270'],6,3,0,2
+37,healthy food nutritional value,['table-0999-325'],4,3,0,2
+37,healthy food nutritional value,['table-0999-323'],4,3,0,2
+37,healthy food nutritional value,['table-1421-943'],6,8,6,2
+37,healthy food nutritional value,['table-1391-645'],4,2,0,2
+37,healthy food nutritional value,['table-0128-170'],16,2,0,2
+37,healthy food nutritional value,['table-1000-412'],4,3,0,2
+38,hormones effects,['table-1017-538'],7,8,2,2
+38,hormones effects,['table-0520-707'],12,8,28,2
+38,hormones effects,['table-1451-328'],6,4,0,2
+38,hormones effects,['table-0116-212'],10,2,0,2
+38,hormones effects,['table-0403-805'],6,2,0,2
+38,hormones effects,['table-0507-56'],20,5,8,2
+38,hormones effects,['table-1379-82'],4,4,0,2
+38,hormones effects,['table-1650-920'],6,5,2,2
+38,hormones effects,['table-1388-470'],4,5,0,2
+38,hormones effects,['table-1204-839'],4,2,0,2
+38,hormones effects,['table-1292-436'],4,5,0,2
+38,hormones effects,['table-1386-110'],1,6,0,2
+38,hormones effects,['table-1035-439'],6,3,0,2
+38,hormones effects,['table-0001-400'],12,3,0,2
+38,hormones effects,['table-1640-953'],3,4,6,2
+38,hormones effects,['table-0985-943'],3,2,0,2
+38,hormones effects,['table-1205-318'],5,3,0,2
+38,hormones effects,['table-1363-588'],4,2,0,2
+38,hormones effects,['table-1017-458'],39,5,9,2
+38,hormones effects,['table-0571-533'],1,3,1,2
+39,household chemicals strength,['table-1524-733'],24,4,0,2
+39,household chemicals strength,['table-0809-4'],15,4,0,2
+39,household chemicals strength,['table-1169-102'],9,4,0,2
+39,household chemicals strength,['table-0806-58'],5,3,0,2
+39,household chemicals strength,['table-0881-101'],8,2,0,2
+39,household chemicals strength,['table-0116-621'],21,2,0,2
+39,household chemicals strength,['table-0435-533'],7,6,7,2
+39,household chemicals strength,['table-0806-57'],7,3,0,2
+39,household chemicals strength,['table-0191-235'],1,9,0,2
+39,household chemicals strength,['table-0217-467'],14,6,2,2
+39,household chemicals strength,['table-1420-265'],7,4,3,2
+39,household chemicals strength,['table-1390-133'],4,2,0,2
+39,household chemicals strength,['table-0806-54'],6,5,12,2
+39,household chemicals strength,['table-0285-770'],1,15,0,2
+39,household chemicals strength,['table-1631-302'],4,3,0,1
+39,household chemicals strength,['table-0919-677'],7,3,4,0
+39,household chemicals strength,['table-1253-980'],1,2,0,0
+39,household chemicals strength,['table-0136-378'],6,2,0,0
+39,household chemicals strength,['table-0752-77'],3,14,0,0
+39,household chemicals strength,['table-0752-76'],3,14,0,0
+40,lakes altitude,['table-0899-319'],45,4,61,2
+40,lakes altitude,['table-1031-634'],12,4,2,2
+40,lakes altitude,['table-1053-499'],10,4,20,2
+40,lakes altitude,['table-0780-807'],8,4,0,2
+40,lakes altitude,['table-0350-639'],29,5,1,2
+40,lakes altitude,['table-1455-165'],6,2,0,2
+40,lakes altitude,['table-1486-330'],21,3,0,2
+40,lakes altitude,['table-1331-131'],6,4,0,2
+40,lakes altitude,['table-0484-507'],8,4,10,2
+40,lakes altitude,['table-0273-259'],25,6,25,2
+40,lakes altitude,['table-1269-149'],4,7,0,1
+40,lakes altitude,['table-0268-65'],7,4,7,0
+40,lakes altitude,['table-0880-38'],6,5,0,0
+40,lakes altitude,['table-1455-161'],2,2,0,0
+40,lakes altitude,['table-1389-517'],6,3,0,0
+40,lakes altitude,['table-0138-271'],8,5,11,0
+40,lakes altitude,['table-0268-63'],3,5,4,0
+40,lakes altitude,['table-1045-652'],17,5,3,0
+40,lakes altitude,['table-0474-779'],2,5,2,0
+40,lakes altitude,['table-0752-521'],4,6,0,0
+41,laptops cpu,['table-1090-240'],7,13,13,0
+41,laptops cpu,['table-1090-238'],6,13,0,0
+41,laptops cpu,['table-1090-242'],3,13,0,0
+41,laptops cpu,['table-1090-239'],3,13,0,0
+41,laptops cpu,['table-1090-244'],1,13,0,0
+41,laptops cpu,['table-1090-243'],1,13,0,0
+41,laptops cpu,['table-1090-241'],1,13,0,0
+41,laptops cpu,['table-0875-234'],20,15,47,0
+41,laptops cpu,['table-0875-223'],6,16,24,0
+41,laptops cpu,['table-0875-224'],1,16,2,0
+41,laptops cpu,['table-0875-235'],9,17,2,0
+41,laptops cpu,['table-0750-139'],3,15,3,0
+41,laptops cpu,['table-0875-228'],8,17,0,0
+41,laptops cpu,['table-0750-134'],5,16,9,0
+41,laptops cpu,['table-0750-129'],4,15,2,0
+41,laptops cpu,['table-0750-128'],3,15,1,0
+41,laptops cpu,['table-0750-136'],9,17,2,0
+41,laptops cpu,['table-0875-230'],9,11,22,0
+41,laptops cpu,['table-0875-225'],3,15,5,0
+41,laptops cpu,['table-0875-237'],10,16,36,0
+42,asian countries currency,['table-1396-736'],3,11,3,0
+42,asian countries currency,['table-0498-296'],3,9,1,0
+42,asian countries currency,['table-0498-298'],10,4,8,0
+42,asian countries currency,['table-1396-735'],2,12,2,0
+42,asian countries currency,['table-0498-295'],4,11,4,2
+42,asian countries currency,['table-1396-734'],11,12,11,2
+42,asian countries currency,['table-1397-842'],7,11,15,2
+42,asian countries currency,['table-1396-738'],7,11,7,2
+42,asian countries currency,['table-0496-732'],39,4,51,2
+42,asian countries currency,['table-1396-737'],5,11,5,2
+42,asian countries currency,['table-1640-316'],14,5,14,2
+42,asian countries currency,['table-1616-401'],37,3,16,2
+42,asian countries currency,['table-1349-592'],38,1,0,2
+42,asian countries currency,['table-0552-599'],7,4,0,2
+42,asian countries currency,['table-0012-931'],5,17,22,2
+42,asian countries currency,['table-0033-259'],3,3,0,1
+42,asian countries currency,['table-0302-912'],19,2,0,1
+42,asian countries currency,['table-1160-843'],61,3,9,1
+42,asian countries currency,['table-0342-607'],9,3,0,1
+42,asian countries currency,['table-1069-625'],6,5,3,0
+43,diseases risks,['table-1612-172'],1,2,0,0
+43,diseases risks,['table-1611-930'],3,2,0,0
+43,diseases risks,['table-1612-261'],1,2,0,0
+43,diseases risks,['table-1611-882'],2,2,0,0
+43,diseases risks,['table-1609-798'],4,2,0,0
+43,diseases risks,['table-1612-3'],6,2,0,0
+43,diseases risks,['table-1611-968'],2,2,0,0
+43,diseases risks,['table-1611-975'],5,2,0,0
+43,diseases risks,['table-1612-211'],4,2,0,0
+43,diseases risks,['table-1611-466'],3,2,0,0
+43,diseases risks,['table-1612-83'],7,2,0,0
+43,diseases risks,['table-1611-525'],2,2,0,0
+43,diseases risks,['table-1612-18'],1,2,0,0
+43,diseases risks,['table-1611-936'],6,2,0,0
+43,diseases risks,['table-1612-207'],8,2,0,0
+43,diseases risks,['table-1612-63'],1,2,0,0
+43,diseases risks,['table-1611-469'],3,2,0,0
+43,diseases risks,['table-1616-344'],1,2,0,0
+43,diseases risks,['table-1611-875'],4,2,0,0
+43,diseases risks,['table-1611-980'],1,2,0,0
+44,external drives capacity,['table-1528-923'],19,3,0,0
+44,external drives capacity,['table-0698-538'],15,9,22,0
+44,external drives capacity,['table-0698-536'],16,4,6,0
+44,external drives capacity,['table-1591-383'],19,6,8,0
+44,external drives capacity,['table-0698-537'],15,7,0,0
+44,external drives capacity,['table-0351-374'],11,5,21,0
+44,external drives capacity,['table-0351-399'],16,5,25,0
+44,external drives capacity,['table-0412-643'],5,6,3,0
+44,external drives capacity,['table-1623-754'],4,2,0,0
+44,external drives capacity,['table-1623-755'],4,2,0,0
+44,external drives capacity,['table-1562-617'],20,6,0,0
+44,external drives capacity,['table-1008-629'],10,4,0,0
+44,external drives capacity,['table-0393-510'],18,5,0,0
+44,external drives capacity,['table-1008-630'],2,2,0,0
+44,external drives capacity,['table-0863-916'],14,5,0,0
+44,external drives capacity,['table-0726-562'],4,4,0,0
+44,external drives capacity,['table-0294-28'],8,3,0,0
+44,external drives capacity,['table-0698-362'],9,5,0,0
+44,external drives capacity,['table-1428-973'],5,3,0,0
+44,external drives capacity,['table-0472-530'],2,9,0,0
+45,baseball teams captain,['table-0497-395'],3,2,2,0
+45,baseball teams captain,['table-1075-885'],6,4,0,0
+45,baseball teams captain,['table-0446-837'],3,5,3,2
+45,baseball teams captain,['table-0998-667'],121,4,0,2
+45,baseball teams captain,['table-1031-997'],5,4,5,2
+45,baseball teams captain,['table-1146-975'],7,4,0,2
+45,baseball teams captain,['table-0798-552'],4,3,0,2
+45,baseball teams captain,['table-1516-67'],8,2,4,2
+45,baseball teams captain,['table-0241-136'],197,7,369,2
+45,baseball teams captain,['table-0394-190'],7,1,0,2
+45,baseball teams captain,['table-1087-866'],6,3,0,2
+45,baseball teams captain,['table-0376-810'],6,2,0,2
+45,baseball teams captain,['table-1461-670'],0,1,0,2
+45,baseball teams captain,['table-0998-663'],15,4,0,2
+45,baseball teams captain,['table-1076-602'],5,3,0,2
+45,baseball teams captain,['table-0622-407'],7,3,1,2
+45,baseball teams captain,['table-1253-512'],38,5,1,2
+45,baseball teams captain,['table-0945-846'],6,2,9,2
+45,baseball teams captain,['table-1335-335'],6,4,0,2
+45,baseball teams captain,['table-1499-154'],3,5,0,2
+46,maryland counties population,['table-1602-828'],24,5,0,2
+46,maryland counties population,['table-1602-829'],3,3,0,2
+46,maryland counties population,['table-1390-891'],13,3,0,2
+46,maryland counties population,['table-1448-821'],115,5,0,2
+46,maryland counties population,['table-1021-322'],12,6,0,2
+46,maryland counties population,['table-0183-58'],26,7,2,2
+46,maryland counties population,['table-1353-79'],10,3,0,2
+46,maryland counties population,['table-1350-109'],5,5,0,2
+46,maryland counties population,['table-1447-841'],75,5,0,2
+46,maryland counties population,['table-1355-572'],5,2,0,2
+46,maryland counties population,['table-0350-546'],50,3,0,2
+46,maryland counties population,['table-1448-829'],10,9,10,2
+46,maryland counties population,['table-1448-687'],3,5,0,1
+46,maryland counties population,['table-1572-776'],29,5,0,1
+46,maryland counties population,['table-0338-14'],15,6,0,1
+46,maryland counties population,['table-1471-990'],3,4,0,1
+46,maryland counties population,['table-0434-898'],18,7,4,0
+46,maryland counties population,['table-1392-245'],15,4,0,0
+46,maryland counties population,['table-0044-810'],11,2,0,0
+46,maryland counties population,['table-0077-438'],3,5,3,0
+47,countries capital,['table-0610-865'],37,7,8,0
+47,countries capital,['table-1585-589'],16,4,0,0
+47,countries capital,['table-1585-588'],35,3,8,0
+47,countries capital,['table-0927-516'],17,1,0,0
+47,countries capital,['table-0927-515'],17,1,0,0
+47,countries capital,['table-0480-100'],49,5,1,0
+47,countries capital,['table-1222-495'],4,5,4,0
+47,countries capital,['table-0224-786'],23,7,0,0
+47,countries capital,['table-0498-295'],4,11,4,0
+47,countries capital,['table-0087-619'],5,3,0,2
+47,countries capital,['table-0498-296'],3,9,1,2
+47,countries capital,['table-0488-918'],16,3,0,2
+47,countries capital,['table-1222-493'],14,5,14,2
+47,countries capital,['table-0853-850'],60,6,2,2
+47,countries capital,['table-0282-68'],5,5,0,1
+47,countries capital,['table-0498-294'],8,11,8,1
+47,countries capital,['table-1197-684'],6,5,1,1
+47,countries capital,['table-0728-796'],17,5,1,1
+47,countries capital,['table-1616-401'],37,3,16,1
+47,countries capital,['table-0927-517'],32,2,30,0
+48,diseases incidence,['table-0371-97'],4,2,0,0
+48,diseases incidence,['table-1628-799'],7,2,0,0
+48,diseases incidence,['table-1461-956'],4,2,0,0
+48,diseases incidence,['table-1612-261'],1,2,0,0
+48,diseases incidence,['table-1612-172'],1,2,0,0
+48,diseases incidence,['table-1611-466'],3,2,0,0
+48,diseases incidence,['table-1571-62'],4,3,0,0
+48,diseases incidence,['table-1611-506'],9,2,0,0
+48,diseases incidence,['table-0055-698'],5,3,0,0
+48,diseases incidence,['table-1611-968'],2,2,0,0
+48,diseases incidence,['table-0456-40'],20,2,0,0
+48,diseases incidence,['table-0459-647'],7,4,0,0
+48,diseases incidence,['table-1137-398'],9,6,0,0
+48,diseases incidence,['table-1612-3'],6,2,0,0
+48,diseases incidence,['table-1612-83'],7,2,0,0
+48,diseases incidence,['table-1611-525'],2,2,0,0
+48,diseases incidence,['table-1026-599'],6,2,0,0
+48,diseases incidence,['table-1635-745'],8,2,8,0
+48,diseases incidence,['table-1055-978'],23,4,0,0
+48,diseases incidence,['table-1612-207'],8,2,0,0
+49,eu countries year joined,['table-1633-945'],52,22,399,0
+49,eu countries year joined,['table-0002-320'],29,2,0,0
+49,eu countries year joined,['table-1502-45'],0,1,0,0
+49,eu countries year joined,['table-0846-443'],13,8,0,0
+49,eu countries year joined,['table-0497-834'],13,8,0,0
+49,eu countries year joined,['table-0019-690'],13,8,0,0
+49,eu countries year joined,['table-0404-288'],2,3,0,0
+49,eu countries year joined,['table-1533-500'],45,11,232,0
+49,eu countries year joined,['table-1640-352'],28,3,45,0
+49,eu countries year joined,['table-1216-279'],37,7,82,0
+49,eu countries year joined,['table-1567-896'],20,8,38,0
+49,eu countries year joined,['table-1017-379'],43,4,13,0
+49,eu countries year joined,['table-0346-490'],19,5,19,0
+49,eu countries year joined,['table-1522-309'],12,5,1,0
+49,eu countries year joined,['table-0058-281'],7,5,6,0
+49,eu countries year joined,['table-1567-897'],2,8,6,0
+49,eu countries year joined,['table-0876-486'],11,6,0,0
+49,eu countries year joined,['table-0116-205'],10,4,11,0
+49,eu countries year joined,['table-0302-912'],19,2,0,0
+49,eu countries year joined,['table-0695-235'],20,3,0,0
+50,irish counties area,['table-0227-700'],39,9,79,0
+50,irish counties area,['table-1405-724'],34,4,2,0
+50,irish counties area,['table-0666-479'],33,5,64,0
+50,irish counties area,['table-0197-91'],5,8,4,2
+50,irish counties area,['table-1570-787'],159,5,0,2
+50,irish counties area,['table-0668-241'],5,3,0,2
+50,irish counties area,['table-1541-685'],6,3,0,2
+50,irish counties area,['table-1572-706'],36,5,0,2
+50,irish counties area,['table-0741-853'],3,3,0,2
+50,irish counties area,['table-1448-638'],105,6,0,2
+50,irish counties area,['table-1442-712'],4,4,4,2
+50,irish counties area,['table-1471-990'],3,4,0,2
+50,irish counties area,['table-1005-954'],5,3,0,2
+50,irish counties area,['table-1005-137'],5,3,0,2
+50,irish counties area,['table-1448-876'],66,5,0,2
+50,irish counties area,['table-1448-837'],33,9,33,2
+50,irish counties area,['table-1448-914'],23,9,23,2
+50,irish counties area,['table-0044-810'],11,2,0,2
+50,irish counties area,['table-0741-866'],4,3,0,2
+50,irish counties area,['table-1448-687'],3,5,0,2
+51,cereals nutritional value,['table-0687-978'],8,4,8,2
+51,cereals nutritional value,['table-0123-682'],13,3,7,2
+51,cereals nutritional value,['table-1108-894'],11,3,0,2
+51,cereals nutritional value,['table-0919-458'],10,9,0,2
+51,cereals nutritional value,['table-1640-1'],26,2,0,2
+51,cereals nutritional value,['table-0091-144'],31,2,4,2
+51,cereals nutritional value,['table-0521-373'],4,5,0,1
+51,cereals nutritional value,['table-1626-838'],4,3,0,1
+51,cereals nutritional value,['table-1573-730'],35,2,0,1
+51,cereals nutritional value,['table-1639-747'],1,6,0,1
+51,cereals nutritional value,['table-1438-848'],3,9,3,1
+51,cereals nutritional value,['table-1653-369'],8,2,0,1
+51,cereals nutritional value,['table-0889-1'],9,3,0,1
+51,cereals nutritional value,['table-0893-879'],5,2,0,1
+51,cereals nutritional value,['table-0630-761'],6,2,0,0
+51,cereals nutritional value,['table-0327-289'],4,3,0,0
+51,cereals nutritional value,['table-1375-531'],9,3,1,0
+51,cereals nutritional value,['table-1627-93'],2,7,0,0
+51,cereals nutritional value,['table-0346-105'],7,4,0,0
+51,cereals nutritional value,['table-1441-100'],1,3,0,0
+52,erp systems price,['table-0131-736'],62,4,79,0
+52,erp systems price,['table-1336-806'],107,6,4,0
+52,erp systems price,['table-1021-819'],4,4,4,0
+52,erp systems price,['table-0180-579'],5,2,0,0
+52,erp systems price,['table-0383-291'],42,7,14,2
+52,erp systems price,['table-1331-268'],28,8,104,1
+52,erp systems price,['table-1081-79'],16,3,0,1
+52,erp systems price,['table-0088-469'],23,5,19,0
+52,erp systems price,['table-1417-465'],38,6,67,0
+52,erp systems price,['table-1005-326'],4,4,5,0
+52,erp systems price,['table-0989-346'],13,4,0,0
+52,erp systems price,['table-1447-122'],83,6,28,0
+52,erp systems price,['table-0350-520'],80,9,0,0
+52,erp systems price,['table-0301-348'],45,6,45,0
+52,erp systems price,['table-1347-123'],21,5,22,0
+52,erp systems price,['table-1431-695'],31,9,4,0
+52,erp systems price,['table-1482-885'],17,5,0,0
+52,erp systems price,['table-0368-850'],11,10,14,0
+52,erp systems price,['table-0155-563'],15,5,3,0
+52,erp systems price,['table-0931-697'],17,3,2,0
+53,cats life span,['table-0469-344'],4,9,0,0
+53,cats life span,['table-0297-350'],4,9,0,0
+53,cats life span,['table-0469-995'],4,9,0,0
+53,cats life span,['table-0744-179'],4,9,0,0
+53,cats life span,['table-1031-529'],4,9,0,0
+53,cats life span,['table-0524-487'],4,9,0,0
+53,cats life span,['table-0566-775'],4,9,0,0
+53,cats life span,['table-1198-23'],4,9,0,0
+53,cats life span,['table-0804-919'],12,2,0,0
+53,cats life span,['table-1219-458'],4,9,0,0
+53,cats life span,['table-0469-351'],4,9,0,0
+53,cats life span,['table-0469-366'],4,9,0,0
+53,cats life span,['table-0849-194'],4,9,0,0
+53,cats life span,['table-0852-883'],4,9,0,0
+53,cats life span,['table-0612-61'],4,9,0,0
+53,cats life span,['table-0841-185'],4,9,0,0
+53,cats life span,['table-0563-407'],4,9,0,0
+53,cats life span,['table-0569-611'],4,9,0,0
+53,cats life span,['table-0846-215'],4,9,0,0
+53,cats life span,['table-0655-948'],4,9,0,0
+54,broadway musicals director,['table-1634-953'],23,7,16,0
+54,broadway musicals director,['table-1580-209'],76,7,54,0
+54,broadway musicals director,['table-1580-221'],52,7,48,0
+54,broadway musicals director,['table-1580-219'],43,7,37,0
+54,broadway musicals director,['table-1208-515'],123,7,124,0
+54,broadway musicals director,['table-1580-217'],57,7,46,0
+54,broadway musicals director,['table-1208-518'],51,7,31,0
+54,broadway musicals director,['table-1208-522'],28,7,26,0
+54,broadway musicals director,['table-1580-216'],33,7,26,0
+54,broadway musicals director,['table-1208-520'],56,7,42,0
+54,broadway musicals director,['table-1580-215'],24,7,21,0
+54,broadway musicals director,['table-1580-211'],50,7,39,0
+54,broadway musicals director,['table-0090-631'],6,6,0,0
+54,broadway musicals director,['table-1580-214'],39,7,37,0
+54,broadway musicals director,['table-1580-213'],9,7,9,0
+54,broadway musicals director,['table-1208-517'],45,7,38,0
+54,broadway musicals director,['table-1208-513'],13,7,3,0
+54,broadway musicals director,['table-0539-829'],2,2,0,0
+54,broadway musicals director,['table-1129-534'],7,5,0,0
+54,broadway musicals director,['table-0193-255'],5,5,0,1
+55,infections treatment,['table-0259-714'],21,7,0,0
+55,infections treatment,['table-1370-151'],12,4,0,0
+55,infections treatment,['table-0905-212'],5,1,0,0
+55,infections treatment,['table-0905-211'],2,3,0,0
+55,infections treatment,['table-0378-500'],161,5,85,0
+55,infections treatment,['table-0253-421'],6,2,0,0
+55,infections treatment,['table-1370-149'],5,4,0,0
+55,infections treatment,['table-1015-954'],21,2,0,0
+55,infections treatment,['table-0515-79'],8,3,0,0
+55,infections treatment,['table-0634-466'],5,3,1,0
+55,infections treatment,['table-1370-150'],9,4,0,0
+55,infections treatment,['table-1018-214'],10,3,0,0
+55,infections treatment,['table-1605-266'],12,3,12,0
+55,infections treatment,['table-1370-152'],4,4,0,0
+55,infections treatment,['table-1444-13'],7,3,0,0
+55,infections treatment,['table-1356-971'],9,7,0,0
+55,infections treatment,['table-1565-115'],6,2,0,0
+55,infections treatment,['table-1411-1000'],4,9,4,0
+55,infections treatment,['table-0798-652'],16,6,3,0
+55,infections treatment,['table-0510-564'],4,2,0,0
+56,food type,['table-1559-591'],9,2,0,0
+56,food type,['table-1436-698'],9,4,15,0
+56,food type,['table-1114-461'],7,4,7,0
+56,food type,['table-1510-622'],3,7,0,0
+56,food type,['table-0546-964'],11,4,22,0
+56,food type,['table-0546-965'],11,5,23,0
+56,food type,['table-1265-636'],11,5,0,0
+56,food type,['table-1448-80'],47,5,0,0
+56,food type,['table-1450-964'],18,2,0,0
+56,food type,['table-0514-315'],6,5,6,0
+56,food type,['table-1565-856'],4,2,0,0
+56,food type,['table-0514-321'],6,5,9,0
+56,food type,['table-0548-553'],38,5,31,0
+56,food type,['table-1479-565'],149,4,194,0
+56,food type,['table-0514-268'],11,3,0,0
+56,food type,['table-0546-963'],3,4,3,0
+56,food type,['table-1177-208'],9,9,20,0
+56,food type,['table-0151-825'],121,5,166,0
+56,food type,['table-1181-620'],5,9,5,0
+56,food type,['table-0548-554'],18,5,13,0
+57,board games number of players,['table-1098-540'],9,6,0,0
+57,board games number of players,['table-1603-684'],4,3,0,0
+57,board games number of players,['table-1603-678'],3,3,0,0
+57,board games number of players,['table-0221-888'],3,4,0,0
+57,board games number of players,['table-0875-544'],6,2,0,0
+57,board games number of players,['table-1473-105'],9,7,5,0
+57,board games number of players,['table-1473-106'],2,7,0,0
+57,board games number of players,['table-0976-487'],31,4,9,0
+57,board games number of players,['table-1316-990'],108,5,0,0
+57,board games number of players,['table-0817-899'],36,3,0,0
+57,board games number of players,['table-1542-271'],11,3,3,0
+57,board games number of players,['table-1473-104'],7,7,0,0
+57,board games number of players,['table-0212-251'],14,3,8,0
+57,board games number of players,['table-0212-252'],14,3,8,0
+57,board games number of players,['table-0212-250'],33,4,22,0
+57,board games number of players,['table-0443-553'],13,7,7,0
+57,board games number of players,['table-0313-377'],20,4,0,0
+57,board games number of players,['table-0094-982'],14,10,43,0
+57,board games number of players,['table-0907-558'],60,7,0,0
+57,board games number of players,['table-0907-688'],55,7,0,2
+58,google products reviews,['table-0721-948'],12,5,3,2
+58,google products reviews,['table-0721-949'],14,7,8,2
+58,google products reviews,['table-0817-634'],11,3,10,2
+58,google products reviews,['table-1311-373'],28,6,0,2
+58,google products reviews,['table-0547-658'],26,7,59,1
+58,google products reviews,['table-0627-582'],2,3,0,1
+58,google products reviews,['table-1356-303'],19,2,0,1
+58,google products reviews,['table-0967-600'],1,4,0,1
+58,google products reviews,['table-0651-51'],3,3,0,1
+58,google products reviews,['table-0462-618'],7,3,0,1
+58,google products reviews,['table-1288-783'],62,8,270,1
+58,google products reviews,['table-0606-7'],32,6,4,1
+58,google products reviews,['table-0978-10'],65,8,89,1
+58,google products reviews,['table-0837-518'],1,3,0,1
+58,google products reviews,['table-1291-440'],11,6,0,1
+58,google products reviews,['table-1091-792'],12,4,23,1
+58,google products reviews,['table-1238-589'],128,3,31,1
+58,google products reviews,['table-0596-476'],15,3,0,1
+58,google products reviews,['table-1154-432'],5,3,0,1
+58,google products reviews,['table-0085-87'],7,2,0,1
+59,constellations closest constellation,['table-1542-143'],13,12,39,1
+59,constellations closest constellation,['table-1264-76'],12,8,12,1
+59,constellations closest constellation,['table-1437-680'],41,3,28,1
+59,constellations closest constellation,['table-1219-20'],89,17,2,1
+59,constellations closest constellation,['table-1627-819'],12,6,42,1
+59,constellations closest constellation,['table-1113-680'],30,4,0,1
+59,constellations closest constellation,['table-1488-994'],11,5,0,1
+59,constellations closest constellation,['table-0859-400'],11,5,0,1
+59,constellations closest constellation,['table-1054-794'],13,8,12,1
+59,constellations closest constellation,['table-0478-50'],2,4,0,1
+59,constellations closest constellation,['table-0833-662'],4,7,0,0
+59,constellations closest constellation,['table-1088-407'],12,5,0,0
+59,constellations closest constellation,['table-0474-103'],125,6,120,0
+59,constellations closest constellation,['table-0228-438'],5,4,0,0
+59,constellations closest constellation,['table-1592-662'],3,5,0,0
+59,constellations closest constellation,['table-1421-433'],100,7,112,0
+59,constellations closest constellation,['table-1421-438'],100,7,108,0
+59,constellations closest constellation,['table-0771-8'],3,3,0,0
+59,constellations closest constellation,['table-1384-963'],28,5,7,0
+59,constellations closest constellation,['table-1490-102'],100,8,188,0
+60,games age,['table-1376-550'],19,3,3,0
+60,games age,['table-1052-535'],2,4,0,0
+60,games age,['table-0030-123'],39,6,76,0
+60,games age,['table-1568-191'],9,4,9,0
+60,games age,['table-0497-384'],4,3,0,0
+60,games age,['table-1279-578'],7,4,0,0
+60,games age,['table-0249-823'],4,4,0,2
+60,games age,['table-1353-328'],3,3,0,1
+60,games age,['table-0119-465'],3,2,0,1
+60,games age,['table-1604-834'],1,1,0,0
+60,games age,['table-1464-4'],6,3,0,0
+60,games age,['table-0379-27'],6,3,0,0
+60,games age,['table-0872-44'],22,3,0,0
+60,games age,['table-1389-290'],7,3,0,0
+60,games age,['table-0221-887'],22,4,0,0
+60,games age,['table-0243-807'],1,4,0,0
+60,games age,['table-0877-317'],1,4,0,0
+60,games age,['table-0604-281'],10,5,0,0
+60,games age,['table-1526-545'],12,2,0,0
+60,games age,['table-1053-407'],13,4,0,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,2
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,1
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
