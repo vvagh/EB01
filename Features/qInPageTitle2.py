@@ -46,6 +46,7 @@ for line in queriestxt:
     while i < len(tid):
         stem = porter.stem(tid[i])
         i += 1
+
         # adding to dictionary
         querydict[querynumber]['query'].append(stem)
 
@@ -61,85 +62,42 @@ for line in queriestxt:
             querydict[querynumber]['tableid'].append(tableid)
 
 # print querydict
-# print("\n".join("{}\t{}".format(k, v) for k, v in querydict.items()))
 
-#
-# querydict = json.dumps(querydict)
-# loaded_r = json.loads(querydict)
-# type(querydict) #Output str
-# type(loaded_r) #Output dict
-#
-# print(loaded_r)
+k = 0
+l = 0
 
-# for a in json_data:
-#   print(a,json_data[a])
-
-# print (json_data['table-1488-888']['pgTitle'])
-
-# k = 0
-# l = 0
 for key, v in querydict.items():
-    count = 0
     # print (key + " ")
-    # print(v['query'])
+    # print len(v['query'])
     # print(v['tableid'])
-    k = 0
-    l = 0
+    # print(v['tableid'])
+    count = 0
     for x in v['tableid']:
-        # print ("  query" + key)
-        # print(v['tableid'])
-        # print(v['query'])
         titledata = json_data[x]["pgTitle"]
         tdSplit = titledata.split()
+        # print ( x + " " + titledata)
         # print(tdSplit)
+        k = 0
+        l = 0
 
-        qr = v['query'][k]
-        ptitle = tdSplit[l]
+        while k < len(v['query']):
+            l = 0
+            while l < len(tdSplit):
 
-        qx = re.findall(qr, ptitle)
-        count += 1
-        # print(qx)
+                qr = v['query'][k]
+                ptitle = tdSplit[l]
 
-        searchObj = re.search(qr, ptitle, re.M | re.I)
-        if searchObj:
-            print ("  query" + key)
-            print(x)
-            print "search --> searchObj.group() : ", searchObj.group()
-            count += 1
-            print(x)
-            print(count)
-        else:
-            print(qr)
-            print "Nothing found!!"
-            print(x)
+                # print ("  query" + key)
 
+                searchObj = re.search(qr, ptitle, re.M | re.I)
+                if searchObj:
+                    count += 1
+                    print(
+                    "Query: " + key + " Table ID :" + x + " Matching query Word: ", searchObj.group() + " Count: ",
+                    count/60.0)
+                l += 1
+                # print("query: " + key + "  Ratio: ", count / 60.0)
 
-        # if (v['query'][k]) == (tdSplit[l]):
+            k += 1
 
-        # print(v['query'][k])
-        # print(tdSplit[l])
-    k += 1
-    l += 1
-
-    # print(count)
-    # Return a list containing every occurrence of "ai":
-
-    # str = titledata
-    # x = re.findall("v['query]", str)
-
-# print(x)
-# print(i)
-
-# i = 0
-#
-# while i < len(v['query']):
-#     querysearch = titledata.startswith(v['query'][i])
-#     print(querysearch)
-#     i += 1
-#
-# if querysearch != 0:
-#     count = count + 1
-
-# print(count)
-# for tid in tableids:
-#     tableids.get("pgTitle")
+    # print("query: " + key + "  Ratio: ", count/60.0)
